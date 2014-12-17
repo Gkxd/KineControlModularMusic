@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scan_bean"
+        android:onClick="scanForBeans" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        
+        <LinearLayout
+	        android:layout_width="0px"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:orientation="vertical" >
+            
+		    <EditText
+		        android:id="@+id/ipaddr"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:hint="@string/label_ipaddr"
+		        android:lines="1"
+		        android:maxLines="1"
+		        android:singleLine="true" />
+		    
+		    <EditText
+		        android:id="@+id/port"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:hint="@string/label_port"
+		        android:lines="1"
+		        android:maxLines="1"
+		        android:singleLine="true"
+		        android:inputType="number" />
+        </LinearLayout>
+	    
+	    <Button
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+	        android:text="@string/ok"
+	        android:onClick="updateIpAddr" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/connectionStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+
+    <TextView
+        android:id="@+id/accelX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+    
+    <TextView
+        android:id="@+id/accelY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+    
+    <TextView
+        android:id="@+id/accelZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+    
+    <TextView
+        android:id="@+id/gyroX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+    
+    <TextView
+        android:id="@+id/gyroY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+    
+    <TextView
+        android:id="@+id/gyroZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+
+    <TextView
+        android:id="@+id/beanMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+
+    <TextView
+        android:id="@+id/beanMessage2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/placeholder" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\pre-dexed\debug\javaosc-58308e474c1ce59a766b2b4d603d5db7200d93da.jar"
+        jar="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\libs\javaosc.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0743a400fc893d69c7ec1bb4ad22a7b0e8d6c333"/>
+    <item
+        dex="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\pre-dexed\debug\okio-1.0.0-6288008c47d55ef4b929bb8267f8580e94a0c5d7.jar"
+        jar="D:\Daniel Hua\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3"/>
+    <item
+        dex="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\pre-dexed\debug\android-support-v4-98e48a6d1ed66cc948ad1f343b3481287c6ea0b9.jar"
+        jar="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4"/>
+    <item
+        dex="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\pre-dexed\debug\classes-39a727cf264826f23f169b9149c3dd52e4dd4f76.jar"
+        jar="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\exploded-aar\nl.littlerobots.bean\beanlib\0.9.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9cb0fd08d17910f176d6028077c45e3ed093b255"/>
+    <item
+        dex="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\pre-dexed\debug\auto-parcel-0.2-4296eee8ca32f5cece3a19b95f209b2b19859521.jar"
+        jar="D:\Daniel Hua\.gradle\caches\modules-2\files-2.1\com.github.frankiesardo\auto-parcel\0.2\d28e477be0a5a3f8fc6770310868528563c3fd37\auto-parcel-0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d28e477be0a5a3f8fc6770310868528563c3fd37"/>
+
+</pre-dex-items>

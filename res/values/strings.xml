@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KineControl Modular Music</string>
+    <string name="action_info">Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="placeholder">placeholder</string>
+    <string name="ok">OK</string>
+    <string name="scan_bean">Scan for Beans</string>
+    
+    <string name="label_ipaddr">IP Address or Hostname</string>
+    <string name="label_port">Port</string>
+    <string name="label_bluetooth">Bluetooth Devices:</string>
+    
+</resources>

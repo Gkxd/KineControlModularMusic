@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="0.9.2" >
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\intermediates\exploded-aar\nl.littlerobots.bean\beanlib\0.9.2\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res" >
+            <file
+                name="ic_launcher"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values\strings.xml"
+                qualifiers="" >
+                <string name="scan_bean" >Scan for Beans
+                </string>
+                <string name="label_port" >Port
+                </string>
+                <string name="label_ipaddr" >IP Address or Hostname
+                </string>
+                <string name="ok" >OK
+                </string>
+                <string name="placeholder" >placeholder
+                </string>
+                <string name="action_info" >Info
+                </string>
+                <string name="app_name" >KineControl Modular Music
+                </string>
+                <string name="label_bluetooth" >Bluetooth Devices:
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\generated\res\rs\debug" />
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\build-types\debug\res" />
+    </dataSet>
+
+</merger>

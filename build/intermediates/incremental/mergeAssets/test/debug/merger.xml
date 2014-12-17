@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\Daniel Hua\Home\Code\Eclipse Workspace\KineControlModularMusic\src\androidTest\assets" />
+    </dataSet>
+
+</merger>

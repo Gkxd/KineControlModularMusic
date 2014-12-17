@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Daniel%20Hua/Home/Code/Eclipse%20Workspace/KineControlModularMusic/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/Daniel%20Hua/Home/Code/Eclipse%20Workspace/KineControlModularMusic/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_info">Info</string>
+    <string name="app_name">KineControl Modular Music</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_bluetooth">Bluetooth Devices:</string>
+    <string name="label_ipaddr">IP Address or Hostname</string>
+    <string name="label_port">Port</string>
+    <string name="ok">OK</string>
+    <string name="placeholder">placeholder</string>
+    <string name="scan_bean">Scan for Beans</string>
+    <!-- From: file:/D:/Daniel%20Hua/Home/Code/Eclipse%20Workspace/KineControlModularMusic/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
